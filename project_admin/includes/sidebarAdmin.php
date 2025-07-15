@@ -66,7 +66,7 @@
     
     <ul class="space-y-1">
         <li>
-            <a href="admin_dashbord.php" class="sidebar-link" data-page="admin_dashbord">
+            <a href="#" class="sidebar-link" data-page="admin_dashbord">
                 <i class="fas fa-chart-pie"></i>
                 Dashboard
             </a>
@@ -96,19 +96,19 @@
             </a>
         </li>
         <li>
-            <a href="performance.php" class="sidebar-link" data-page="performance">
+            <a href="#" class="sidebar-link" data-page="performance">
                 <i class="fas fa-chart-line"></i>
                 ผลงานและบริการ
             </a>
         </li>
         <li>
-            <a href="consultation.php" class="sidebar-link" data-page="consultation">
+            <a href="#" class="sidebar-link" data-page="consultation">
                 <i class="fas fa-comments"></i>
                 การให้คำปรึกษา
             </a>
         </li>
         <li>
-            <a href="contact.php" class="sidebar-link" data-page="contact">
+            <a href="#" class="sidebar-link" data-page="contact">
                 <i class="fas fa-address-book"></i>
                 ข้อมูลการติดต่อ
             </a>

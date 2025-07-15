@@ -38,7 +38,7 @@ if ($result->num_rows === 1) {
                 header("Location: /project_admin/expert/account_expert.php");
                 break;
             case 3:
-                header("Location: ../member/index.php");
+                header("Location: /project_admin/member/profile.php");
                 break;
             default:
                 session_destroy();

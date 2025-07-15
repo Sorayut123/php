@@ -79,7 +79,7 @@
             </a>
         </li>
         <li>
-            <a href="consultation.php" class="sidebar-link" data-page="consultation">
+            <a href="chat_expert.php" class="sidebar-link" data-page="consultation">
                 <i class="fas fa-comments"></i>
                 การให้คำปรึกษา
             </a>
